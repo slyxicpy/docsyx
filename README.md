@@ -1,2 +1,2 @@
 # docsyx
-Central Docs By styx Conection by MinOS
+Central Docs|Documentacion ES By styx Conection by SminOS
